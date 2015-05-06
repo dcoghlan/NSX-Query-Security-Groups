@@ -1,7 +1,7 @@
 #
 # Script to show VMware NSX-v security group members
 # Written by Dale Coghlan
-# Date: 24 Apr 2015
+# Date: 6 May 2015
 # https://github.com/dcoghlan/
 # Version: 1.0.1
 
