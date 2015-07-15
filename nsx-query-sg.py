@@ -12,10 +12,10 @@
 _scope = 'globalroot-0'
 
 # Uncomment the following line to hardcode the NSX Manager.
-_nsxmgr = '10.29.4.11'
+#_nsxmgr = '10.29.4.11'
 
 # Uncomment the following line to hardcode the password. This will remove the password prompt.
-_password = 'default'
+#_password = 'default'
 
 # Show IPv6 addressing in the output [0=No, 1=Yes].
 _showIPv6 = '1'
