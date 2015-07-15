@@ -3,7 +3,7 @@
 # Written by Dale Coghlan
 # Date: 6 May 2015
 # https://github.com/dcoghlan/
-# Version: 1.0.1
+# Version: 1.0.2
 
 # ------------------------------------------------------------------------------------------------------------------
 # Set some variables. No need to change anything else after this section
