@@ -137,6 +137,7 @@ def f_get_sg_list():
 				sgDescriptionData = ''
 		else:
 			data.append('')
+			sgDescriptionData = ''
 
 		print(_outputDataRow.format(sgObjectId.firstChild.data,	sgName.firstChild.data,	sgDescriptionData))
 
